@@ -1,4 +1,4 @@
-# 🚀 Miky Zurita - Desarrollo de Software
+# 🌻 Miky Zurita - Desarrollo de Software 💻
 
 ¡Hola! Soy **Miky Zurita**, estudiante de Desarrollo de Software. En este repositorio subo todos mis códigos, desde pequeños scripts hasta proyectos más complejos.  
 
