@@ -10,7 +10,7 @@
 ## 🛠️ Tecnologías  
 Algunas de las tecnologías con las que trabajo:  
 - 💻 **Lenguajes:** Python
-- 🏗️ **Estadistica:** Stata
+- 🏗️ **Estadistica:** Stata and Rstudio
 
 ## 📞 Contacto  
 Si quieres conectar conmigo:  
