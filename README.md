@@ -9,7 +9,7 @@
 
 ## 🛠️ Tecnologías  
 Algunas de las tecnologías con las que trabajo:  
-- 💻 **Lenguajes:** Python
+- 💻 **Lenguajes:** Python, JavaScript, HTML
 - 🏗️ **Estadistica:** Stata and RStudio
 
 ## 📞 Contacto  
